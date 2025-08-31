@@ -2,7 +2,7 @@
 
 A collection of fun and interactive projects built while learning Python and OpenCV. These include hand pose tracking, face mesh detection, motion-based controls, and creative virtual interactions.
 
-##  Table of Contents
+## 📑 Table of Contents
 
 - [Projects](#projects)  
 - [Features](#features)  
@@ -15,7 +15,7 @@ A collection of fun and interactive projects built while learning Python and Ope
 
 ---
 
-## Projects
+## 🚀 Projects
 
 - **Hand Pose Tracking**  
   Use hand landmarks to detect gestures and control functionality, such as adjusting volume or toggling features with specific motions.
@@ -34,7 +34,7 @@ A collection of fun and interactive projects built while learning Python and Ope
 
 ---
 
-## Features
+## ✨ Features
 
 - Real-time computer vision using OpenCV  
 - Lightweight and easy to run on most devices  
@@ -43,7 +43,7 @@ A collection of fun and interactive projects built while learning Python and Ope
 
 ---
 
-## Installation
+## ⚙️ Installation
 
 1. Clone this repository:  
    ```bash
@@ -52,7 +52,7 @@ A collection of fun and interactive projects built while learning Python and Ope
 
 ---
 
-## Usage 
+## ▶️ Usage 
 
 - **Hand Pose Tracking**  
   python Hand/hand_pose.py
@@ -68,7 +68,7 @@ A collection of fun and interactive projects built while learning Python and Ope
 
 ---
 
-## Dependencies
+## 📦 Dependencies
 
 Make sure you have these installed (already included in requirements.txt):
 •	opencv-python
@@ -77,23 +77,25 @@ Make sure you have these installed (already included in requirements.txt):
 
 ---
 
-## Folder Structure
+## 📂 Folder Structure
 
 opencv_projects/
 │
 ├── Face/
-│   └── face_mesh.py
+│ └── face_mesh.py
+│
 ├── Hand/
-│   ├── hand_pose.py
-│   ├── virtual_painter.py
-│   └── virtual_mouse.py
+│ ├── hand_pose.py
+│ ├── virtual_painter.py
+│ └── virtual_mouse.py
+│
 ├── .vscode/
 ├── README.md
 └── requirements.txt
 
 ---
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are welcome!
 To contribute:
@@ -108,5 +110,8 @@ To contribute:
 ## 📜 License
 
 This project is licensed under the MIT License — feel free to use, modify, and share.
+
+---
+
 
 
