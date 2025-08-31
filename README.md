@@ -49,3 +49,64 @@ A collection of fun and interactive projects built while learning Python and Ope
    ```bash
    git clone https://github.com/itsdiwakarsingh/opencv_projects.git
    cd opencv_projects
+
+---
+
+## Usage 
+
+- **Hand Pose Tracking**  
+  python Hand/hand_pose.py
+
+- **Face Mesh Detection**  
+  python Face/face_mesh.py
+
+- **Virtual Painter**  
+  python Hand/virtual_painter.py
+
+- **Virtual Mouse**  
+  python Hand/virtual_mouse.py
+
+---
+
+## Dependencies
+
+Make sure you have these installed (already included in requirements.txt):
+•	opencv-python
+•	mediapipe
+•	numpy
+
+---
+
+## Folder Structure
+
+opencv_projects/
+│
+├── Face/
+│   └── face_mesh.py
+├── Hand/
+│   ├── hand_pose.py
+│   ├── virtual_painter.py
+│   └── virtual_mouse.py
+├── .vscode/
+├── README.md
+└── requirements.txt
+
+---
+
+## Contributing
+
+Contributions are welcome!
+To contribute:
+1.	Fork this repo
+2.	Create a new branch (git checkout -b feature-name)
+3.	Commit your changes (git commit -m "Added feature")
+4.	Push (git push origin feature-name)
+5.	Open a Pull Request
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License — feel free to use, modify, and share.
+
+
