@@ -80,16 +80,13 @@ Make sure you have these installed (already included in requirements.txt):
 ## 📂 Folder Structure
 
 opencv_projects/
-│
-├── Face/
-│ └── face_mesh.py
-│
-├── Hand/
-│ ├── hand_pose.py
-│ ├── virtual_painter.py
-│ └── virtual_mouse.py
-│
 ├── .vscode/
+├── Face/
+│   └── face_mesh.py
+├── Hand/
+│   ├── hand_pose.py
+│   ├── virtual_painter.py
+│   └── virtual_mouse.py
 ├── README.md
 └── requirements.txt
 
