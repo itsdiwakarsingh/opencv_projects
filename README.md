@@ -78,7 +78,7 @@ Make sure you have these installed (already included in requirements.txt):
 ---
 
 ## 📂 Folder Structure
-
+```
 opencv_projects/
 ├── .vscode/
 ├── Face/
@@ -89,7 +89,7 @@ opencv_projects/
 │   └── virtual_mouse.py
 ├── README.md
 └── requirements.txt
-
+```
 ---
 
 ## 🤝 Contributing
